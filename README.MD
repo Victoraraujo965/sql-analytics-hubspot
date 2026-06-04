@@ -8,6 +8,8 @@ Projeto de SQL avançado com 10 queries analíticas reais sobre dados mockados n
 - **Sintaxe compatível** com PostgreSQL e BigQuery
 
 ## Estrutura
+
+```
 sql-analytics-hubspot/
 ├── data/mock/
 │   └── generate_mock_data.py   # Gera os CSVs mockados
@@ -26,7 +28,8 @@ sql-analytics-hubspot/
 │   ├── 09_performance_vs_meta.sql
 │   └── 10_top_empresas_ltv.sql
 └── docs/
-└── query_notes.md
+    └── query_notes.md
+```
 
 ## Como rodar
 
